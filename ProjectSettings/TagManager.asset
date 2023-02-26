@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Transparent_Overlay
+  - Interact_Range
+  - Maracutaia
+  - Destroy
+  - Temp_Destroy
+  - Collectible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2219457889
+    locked: 0
+  - name: Middle
+    uniqueID: 1080479845
+    locked: 0
+  - name: Foreground
+    uniqueID: 2528878689
+    locked: 0
+  - name: EvenFurtherGround
+    uniqueID: 2404381581
+    locked: 0
